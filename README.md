@@ -1,4 +1,4 @@
-# Projeto Card - Codante
+# project card
 
 Este é um projeto simples de um card desenvolvido a partir de um desafio do [Codante](https://codante.io). O objetivo foi praticar HTML e CSS, sem aprofundar muito na estilização ou na sintaxe avançada.
 
